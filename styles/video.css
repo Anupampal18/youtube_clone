@@ -56,11 +56,11 @@
 }
 
 .video-title {
+    margin-top: 0;
     font-size: 14px;
     font-weight: 500;
     line-height: 20px;
-    margin-bottom: 4px;
-    color: #030303;
+    margin-bottom: 10px;
     overflow: hidden;
     display: -webkit-box;
     -webkit-line-clamp: 2;
